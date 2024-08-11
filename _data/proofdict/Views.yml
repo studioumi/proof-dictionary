@@ -1,0 +1,14 @@
+id: 01J4ZN40EWKT8D0GGV5PRXM75V
+description: ''
+expected: Views
+patterns:
+  - /views/i
+allows: []
+specs:
+  - from: views
+    to: Views
+  - from: VIEWS
+    to: Views
+tags:
+  - noun
+  - drupal
