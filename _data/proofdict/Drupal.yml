@@ -1,0 +1,13 @@
+id: 01J4ZM9WGWM3QHBK64C9NMEVYT
+description: ''
+expected: Drupal
+patterns:
+  - /drupal/i
+allows: []
+specs:
+  - from: drupal
+    to: Drupal
+  - from: DRUPAL
+    to: Drupal
+tags:
+  - noun
