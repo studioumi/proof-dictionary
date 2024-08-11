@@ -1,0 +1,14 @@
+id: 01J4ZMWATV7NKXJCDS9P9G50G5
+description: ''
+expected: Drupal $1
+patterns:
+  - '/drupal\s*([0-9]+(\.[0-9]+)*)/i'
+allows: []
+specs:
+  - from: drupal 4
+    to: Drupal 4
+  - from: DRUPAL11.0.0
+    to: Drupal 11.0.0
+tags:
+  - noun
+  - drupal
