@@ -1,0 +1,14 @@
+id: 01J4ZNG29AV3CT9NDX8TJXQ5JP
+description: ''
+expected: Webform
+patterns:
+  - /webform/i
+allows: []
+specs:
+  - from: webform
+    to: Webform
+  - from: WebForm
+    to: Webform
+tags:
+  - noun
+  - drupal
