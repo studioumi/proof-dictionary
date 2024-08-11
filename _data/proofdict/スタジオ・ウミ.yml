@@ -1,0 +1,15 @@
+id: 01J4ZNV8RK2QZZZQZTHVP403XV
+description: ''
+expected: スタジオ・ウミ
+patterns:
+  - /スタジオ( |　)?ウミ/
+allows: []
+specs:
+  - from: スタジオ　ウミ
+    to: スタジオ・ウミ
+  - from: スタジオウミ
+    to: スタジオ・ウミ
+  - from: スタジオ ウミ
+    to: スタジオ・ウミ
+tags:
+  - noun
