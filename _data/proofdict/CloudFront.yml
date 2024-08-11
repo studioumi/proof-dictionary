@@ -1,0 +1,13 @@
+id: 01J4ZNQ0RPXZ1B8MYW6RCNJHM2
+description: ''
+expected: CloudFront
+patterns:
+  - /cloudfront/i
+allows: []
+specs:
+  - from: cloudfront
+    to: CloudFront
+  - from: Cloudfront
+    to: CloudFront
+tags:
+  - noun
