@@ -1,0 +1,13 @@
+id: 01J4ZNJ57T3H3HD4GNRYMBF0HN
+description: ''
+expected: CKEditor $1
+patterns:
+  - '/ckeditor\s*([0-9]+(\.[0-9]*))/i'
+allows: []
+specs:
+  - from: ckeditor4
+    to: CKEditor 4
+  - from: CKeditor 5.1
+    to: CKEditor 5.1
+tags:
+  - noun
