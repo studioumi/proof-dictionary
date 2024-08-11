@@ -1,0 +1,16 @@
+id: 01J4ZN5NAH5AEY1G0JTCVYT3NH
+description: ''
+expected: Cloudflare
+patterns:
+  - /cloudflare/i
+allows: []
+specs:
+  - from: cloudflare
+    to: Cloudflare
+  - from: CloudFlare
+    to: Cloudflare
+  - from: CLOUDFLARE
+    to: Cloudflare
+tags:
+  - noun
+  - drupal
