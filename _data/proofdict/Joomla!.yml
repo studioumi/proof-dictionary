@@ -1,0 +1,15 @@
+id: 01J4ZNB1SMRE59GCFGVE2DFB96
+description: ''
+expected: Joomla!
+patterns:
+  - /joomla!?/i
+allows: []
+specs:
+  - from: joomla
+    to: Joomla!
+  - from: JOOMLA
+    to: Joomla!
+  - from: joomla!
+    to: Joomla!
+tags:
+  - noun
