@@ -1,0 +1,13 @@
+id: 01J4ZNJ57T3H3HD4GNRYMBF0HN
+description: ''
+expected: CKEditor
+patterns:
+  - /ckeditor/i
+allows: []
+specs:
+  - from: 'ckeditor '
+    to: 'CKEditor '
+  - from: CKeditor
+    to: CKEditor
+tags:
+  - noun
