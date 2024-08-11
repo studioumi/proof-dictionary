@@ -1,0 +1,13 @@
+id: 01J4ZN98XNF3YN4KH8JZQWRR01
+description: ''
+expected: WordPress
+patterns:
+  - /wordpress/i
+allows: []
+specs:
+  - from: Wordpress
+    to: WordPress
+  - from: wordpress
+    to: WordPress
+tags:
+  - noun
