@@ -1,0 +1,12 @@
+id: 01J54F61CPD0ZPHFSNY65KTFMF
+description: ''
+expected: MySQL
+patterns:
+  - /mysql/i
+allows: []
+specs:
+  - from: mysql
+    to: MySQL
+  - from: Mysql
+    to: MySQL
+tags: []
