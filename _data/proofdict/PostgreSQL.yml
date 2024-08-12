@@ -1,0 +1,13 @@
+id: 01J54F7M3K5AT0QWQQ5NN1QGS8
+description: ''
+expected: PostgreSQL
+patterns:
+  - /postgre\s?sql/i
+allows: []
+specs:
+  - from: Postgre SQL
+    to: PostgreSQL
+  - from: Postgresql
+    to: PostgreSQL
+tags:
+  - noun
