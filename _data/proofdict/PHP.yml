@@ -1,0 +1,13 @@
+id: 01J54F4XVEVHXGQ3R20D7GNGEG
+description: ''
+expected: PHP
+patterns:
+  - /php/i
+allows: []
+specs:
+  - from: Php
+    to: PHP
+  - from: php
+    to: PHP
+tags:
+  - noun
