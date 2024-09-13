@@ -2,11 +2,13 @@ id: 01J7NBWKSV3GMMDJ5S7NAJ7K77
 description: ''
 expected: ドゥルーパル
 patterns:
-  - /(ドルー?パル)/
+  - /(ドゥ?ルー?パル)/
 allows: []
 specs:
   - from: ドルーパル
     to: ドゥルーパル
   - from: ドルパル
+    to: ドゥルーパル
+  - from: ドゥルパル
     to: ドゥルーパル
 tags: []
