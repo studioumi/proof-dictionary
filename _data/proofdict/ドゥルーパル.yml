@@ -1,0 +1,10 @@
+id: 01J7NBWKSV3GMMDJ5S7NAJ7K77
+description: ''
+expected: ドゥルーパル
+patterns:
+  - /(ドルーパル)/i
+allows: []
+specs:
+  - from: ドルーパル
+    to: ドゥルーパル
+tags: []
