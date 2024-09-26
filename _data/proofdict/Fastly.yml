@@ -1,0 +1,12 @@
+id: 01J8P302YX00N229SWGMHR0AVR
+description: ''
+expected: Fastly
+patterns:
+  - /fastly/i
+allows: []
+specs:
+  - from: fastly
+    to: Fastly
+  - from: FASTLY
+    to: Fastly
+tags: []
