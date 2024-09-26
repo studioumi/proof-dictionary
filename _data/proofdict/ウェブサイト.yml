@@ -1,0 +1,12 @@
+id: 01J8P3JZX4KN6FJF36H2HQ20N9
+description: ''
+expected: ウェブサイト
+patterns:
+  - /webサイト/i
+allows: []
+specs:
+  - from: Webサイト
+    to: ウェブサイト
+  - from: WEBサイト
+    to: ウェブサイト
+tags: []
