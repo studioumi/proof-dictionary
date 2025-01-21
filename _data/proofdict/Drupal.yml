@@ -3,11 +3,16 @@ description: ''
 expected: Drupal
 patterns:
   - /drupal/i
-allows: []
+allows:
+  - drupal\.org
 specs:
-  - from: drupal
-    to: Drupal
+  - from: drupal.
+    to: Drupal.
   - from: DRUPAL
     to: Drupal
+  - from: drupal.org
+    to: drupal.org
+  - from: localize.drupal.org
+    to: localize.drupal.org
 tags:
   - noun
